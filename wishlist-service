@@ -41,7 +41,7 @@ management.endpoint.health.show-details=always
 
 #mongodb
 #spring.data.mongodb.uri=mongodb+srv://tejajagadeep:tejajagadeep@cluster0.u0rctha.mongodb.net/music-db
-spring.data.mongodb.uri=mongodb+srv://tejajagadeep:tejajagadeep@cluster0.uplpa7y.mongodb.net/wishlist-db?retryWrites=true&w=majority
+spring.data.mongodb.uri=mongodb+srv://dhoneamruta:dhoneamruta@cluster0.jjnuw2o.mongodb.net/
 spring.cache.jcache.config=ehcache.xml
 #eureka
 eureka.instance.ip-address=true
