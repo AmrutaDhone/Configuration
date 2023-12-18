@@ -9,7 +9,7 @@ spring.jpa.hibernate.ddl-auto=update
 #spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
 #spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
 
-spring.datasource.url=jdbc:h2:mem:authdb
+spring.datasource.url=jdbc:h2:mem:spotifyapp
 spring.datasource.driver-class-name=org.h2.Driver
 spring.datasource.username=sa
 spring.datasource.password=password
